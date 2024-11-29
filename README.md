@@ -2,6 +2,9 @@
 
 ### Project Background: Apollo Hospitals Analysis Dashboard
 
+![Screenshot 2024-11-29 152531](https://github.com/user-attachments/assets/6e960115-8b5b-46b6-be01-c88f565d0e46)
+
+
 #### Introduction
 Apollo Hospitals, a premier healthcare provider in India, is renowned for its comprehensive healthcare services and state-of-the-art facilities. To maintain its leadership in the healthcare industry, Apollo Hospitals continually evaluates its financial and operational performance. This project aims to develop a dashboard that provides detailed insights into various financial and clinical metrics, enabling Apollo Hospitals to make data-driven decisions to enhance patient care and operational efficiency.
 
